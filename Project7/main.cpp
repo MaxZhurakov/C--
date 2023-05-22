@@ -1,4 +1,4 @@
-//ex_1_14.04.2023
+//ex_1_
 #include <iostream>
 using namespace std;
 int main()
@@ -19,7 +19,7 @@ int main()
     return 0;
 }
 
-//ex_3_14.04.2023
+//ex_3_
 #include <iostream>
 using namespace std;
 int main()
@@ -36,7 +36,7 @@ int main()
     return 0;
 }
 
-//ex_4_14.04.2023
+//ex_4_
 #include <iostream>
 using namespace std;
 int main() {
